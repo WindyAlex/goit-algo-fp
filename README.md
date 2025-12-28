@@ -1,5 +1,10 @@
 # Task 7: Monte Carlo Simulation of Two Dice Rolls
 
+## Introduction
+
+This work compares Monte Carlo simulation results with theoretical probabilities for the sums obtained when rolling two dice.  
+The goal is to show how simulation results approach theoretical values as the number of trials increases.
+
 ## Results:
 
 ```

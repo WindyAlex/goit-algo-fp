@@ -53,8 +53,10 @@ Sum | Count     | Monte Carlo | Theoretical | Difference
  12 |      2754 |      0.0275 |      0.0278 |     0.0002
  ```
 
+ ![Monte Carlo Dice Simulation](Task7.png)
+
 ## Conclusion:
 
-The Monte Carlo simulation results converge to the theoretical probabilities as the number of trials increases.
-For 100,000 trials, the differences between simulated and theoretical probabilities are minimal, which confirms the correctness of the implementation.
+The Monte Carlo simulation results converge to the theoretical probabilities as the number of trials increases.  
+For 100,000 trials, the differences between simulated and theoretical probabilities are minimal, which confirms the correctness of the implementation.  
 The highest probability is observed for the sum 7, while the lowest probabilities correspond to sums 2 and 12, fully matching the theoretical distribution.
